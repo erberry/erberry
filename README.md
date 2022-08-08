@@ -1,9 +1,9 @@
 ### 为梦想而努力！
 一线互联网码农，热衷探究技术背后的原理。
 ### 个人主页
-* [Github个人博客](https://erberry.github.io/)
 * [知乎个人主页](https://www.zhihu.com/people/liu-wei-54-20)
 * 微信公众号：编程学习日志
+* [Github个人博客](https://erberry.github.io/)
 
 <!--
 **erberry/erberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
