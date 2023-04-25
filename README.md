@@ -2,7 +2,7 @@
 一线互联网码农，热衷探究技术背后的原理。
 ### 个人主页
 * [知乎个人主页](https://www.zhihu.com/people/liu-wei-54-20)
-* 微信公众号：编程学习日志
+* 微信公众号：码上学AI
 * [Github个人博客](https://erberry.github.io/)
 
 <!--
