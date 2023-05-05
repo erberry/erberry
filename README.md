@@ -6,6 +6,8 @@
 
 ###  🌱 I’m currently learning ...
 
+- [chatgpt系列教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=2843015492562042881#wechat_redirect)
+
 ### 📫 How to reach me: ...
 
 * 微信公众号：码上学AI
