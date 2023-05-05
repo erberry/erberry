@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on ...
 
-#### [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
+#### 1. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
 
 针对GPT不熟悉的话题，构建本地知识库，例如：GPT没有关于最新的时间的知识；或者未公开文档的知识。
 
@@ -12,4 +12,5 @@
 * [知乎个人主页](https://www.zhihu.com/people/liu-wei-54-20)
 * [Github个人博客](https://erberry.github.io/)
 
-![码上学AI](https://erberry.github.io/55.png)
+<img src="https://erberry.github.io/55.png" width="200" height="74" />
+
