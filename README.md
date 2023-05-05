@@ -12,5 +12,5 @@
 * [知乎个人主页](https://www.zhihu.com/people/liu-wei-54-20)
 * [Github个人博客](https://erberry.github.io/)
 
-<img src="https://erberry.github.io/55.png" width="200" height="74" />
+<img src="https://erberry.github.io/55.png" width="400" height="148" />
 
