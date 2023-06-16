@@ -6,13 +6,11 @@
 
 ###  🌱 I’m currently learning ...
 
-- [chatgpt系列教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=2843015492562042881#wechat_redirect)
+- [机器学习-ChatGPT系列教程](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=2951898067476398088#wechat_redirect)
 
 ### 📫 How to reach me: ...
 
 * 微信公众号：码上学AI
-* [知乎个人主页](https://www.zhihu.com/people/liu-wei-54-20)
-* [Github个人博客](https://erberry.github.io/)
 
 <img src="https://erberry.github.io/55.png" width="400" height="148" />
 
