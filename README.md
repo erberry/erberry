@@ -1,6 +1,8 @@
 ### 🔭 I’m currently working on ...
 
-#### 1. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
+#### 1. [在colab上玩耍机器学习](https://github.com/erberry/colab-ipynb)
+
+#### 2. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
 
 针对GPT不熟悉的话题，构建本地知识库，例如：GPT没有关于最新的时间的知识；或者未公开文档的知识。
 
