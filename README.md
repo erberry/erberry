@@ -1,6 +1,6 @@
 ### 🔭 I’m currently working on ...
 
-#### 1. [在colab上玩耍机器学习](https://github.com/erberry/colab-ipynb)
+#### 1. [在colab上玩耍机器学习](https://github.com/erberry/ThinkML)
 
 #### 2. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
 
