@@ -14,5 +14,5 @@
 
 * 微信公众号：码上学AI
 
-<img src="[https://erberry.github.io/55.png](https://raw.githubusercontent.com/erberry/erberry/main/55.png)" width="400" height="148" />
+<img src="https://raw.githubusercontent.com/erberry/erberry/main/55.png" width="400" height="148" />
 
