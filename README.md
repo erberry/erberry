@@ -1,3 +1,13 @@
+### The technical article I am currently writing
+
+#### 1. [AI模型相关](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=3882545791625330691&scene=126#wechat_redirect)
+
+### The technical articles I have written in the past
+
+#### 1. [go语言相关](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=2008233094889144321&scene=126#wechat_redirect)
+#### 2. [redis](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=3750528513095417857&scene=126#wechat_redirect)
+#### 3. [数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=2211170841562775553&scene=126#wechat_redirect)
+
 ### 🔭 I’m currently working on ...
 
 #### 1. [开源模型、机器学习、NLP，实战](https://github.com/erberry/ThinkML)
