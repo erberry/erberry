@@ -13,9 +13,11 @@
 
 ### 🔭 I’m currently working on ...
 
-#### 1. [开源模型、机器学习、NLP，实战](https://github.com/erberry/ThinkML)
+#### 1. [Chrome插件：AI Code Review](https://github.com/erberry/ai-code-review)
 
-#### 2. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
+#### 2. [开源模型、机器学习、NLP，实战](https://github.com/erberry/ThinkML)
+
+#### 3. [qa-base-doc](https://github.com/erberry/openai-cookbook-demo/tree/main/qa-base-doc)
 
 针对GPT不熟悉的话题，构建本地知识库，例如：GPT没有关于最新的时间的知识；或者未公开文档的知识。
 
