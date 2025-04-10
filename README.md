@@ -5,7 +5,7 @@
 
 #### 1. [AI模型相关](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzk0MDI2Nzc3Mw==&action=getalbum&album_id=3882545791625330691&scene=126#wechat_redirect)
 
-### 🔭 I’m currently working on ...
+### I’m currently working on ...
 
 #### 1. [Chrome插件：AI Code Review](https://github.com/erberry/ai-code-review)
 
